@@ -3,6 +3,7 @@
   "require":{
     "atk4\/atk4":"dev-master",
     "phpunit/phpunit": "4.5.*",
+    "phpseclib/phpseclib": "dev-master",
     "educoder\/pest":"1.0.0"
   },
   "autoload":{
